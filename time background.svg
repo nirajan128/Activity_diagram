@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="609" height="135" viewBox="0 0 609 135">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2e1e1;
+        stroke: #07070d;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Indicators">
+    <rect class="cls-1" x="0.5" y="51" width="608" height="33" rx="12"/>
+  </g>
+</svg>
